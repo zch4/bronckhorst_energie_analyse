@@ -17,6 +17,7 @@ Inzicht geven in:
 - **Power BI** - Interactieve dashboards
 - **Python** - Data-processing en analyse
 - **ArcGIS/GeoJSON** - Ruimtelijke data
+- - **Azure** - Cloud platform (gepland: Azure Data Lake, Databricks)
 
 ## Data bronnen
 
