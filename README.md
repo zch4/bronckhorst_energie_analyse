@@ -21,10 +21,7 @@ Analyse van energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en
 
 ## Data
 
-- CBS Wijk- en Buurtkaart (ArcGIS FeatureServer)
-- CBS StatLine (buurt- en wijkgegevens)
-- RVO energielabel database (gepland)
-- Gemeente Bronckhorst open data (gepland)
+- Gemeente Bronckhorst open data 
 
 ## Status
 
