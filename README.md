@@ -1,4 +1,24 @@
-# Bronckhorst Energie Analyse- **Azure** - Cloud platform voor data storage en processing (gepland)
+# Bronckhorst Energie Analyse
+
+## Over dit project
+
+Data-analyse van de energietransitie in de gemeente Bronckhorst. Dit project onderzoekt energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en buurtniveau.
+
+## Doelstelling
+
+Inzicht geven in:
+
+- Huidige energieverbruik (gas & elektriciteit)
+- Woningvoorraad en energielabels
+- Potentieel voor verduurzaming
+- Socio-economische aspecten van de energietransitie
+
+## Technologieën
+
+- **Power BI** - Interactieve dashboards
+- **Python** - Data-processing en analyse
+- **ArcGIS/GeoJSON** - Ruimtelijke data
+- **Azure** - Cloud platform voor data storage en processing (gepland)
 
 ## Data bronnen
 
