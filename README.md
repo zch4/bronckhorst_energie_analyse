@@ -21,8 +21,8 @@ Analyse van energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en
 
 ## Data
 
-- Gemeente Bronckhorst open data
-- CBS StatLine, buurt- en wijkgegevens 2025
+- Gemeente Bronckhorst open data (ArcGIS FeatureServer)
+- CBS StatLine, Kerncijfers wijk- en buurtgegevens 2025
 
 ## Status
 
