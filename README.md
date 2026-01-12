@@ -1,23 +1,23 @@
 # Bronckhorst Energie Analyse
 
-Een data-engineeringproject voor energie- en duurzaamheidsdata in gemeente Bronckhorst. Dit project ontwikkelt een end-to-end datapipeline van open databronnen naar inzichten over de lokale energietransitie.
+Data-analyse van energieverbruik en woningkenmerken in gemeente Bronckhorst op buurt- en wijkniveau.
 
-## Projectbeschrijving
+## Over dit project
 
-Analyse van energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en buurtniveau in gemeente Bronckhorst, met als doel inzicht te bieden in verduurzamingsmogelijkheden.
+Dit project gebruikt open data van Gemeente Bronckhorst en CBS om inzicht te krijgen in de energietransitie op lokaal niveau. Ik maak gebruik van ArcGIS FeatureServers voor ruimtelijke data en CBS Kerncijfers voor statistieken over energie en woningen.
 
-**Kernactiviteiten:**
-- Ontsluiting van open databronnen (ArcGIS FeatureServer, CBS StatLine)
-- Data-integratie op buurt- en wijkniveau
-- Feature engineering (energieverbruik per huishouden, verduurzamingspotentieel)
-- Geografische dataverwerking en visualisatie
+**Wat ik doe:**
+- Open data ophalen via ArcGIS FeatureServer en CBS StatLine
+- Data combineren op buurt/wijkniveau
+- Berekeningen zoals energieverbruik per huishouden
+- Visualisaties maken in Power BI
 
-## Technologieën
+## Tech stack
 
-- **Python** - Data-processing en ETL-pipeline
-- **ArcGIS/GeoJSON** - Ruimtelijke data-ontsluiting en -verwerking  
-- **Power BI** - Dashboarding en geografische visualisaties
-- **Azure** - Cloud platform (gepland)
+- Python voor data processing
+- ArcGIS/GeoJSON voor geografische data
+- Power BI voor dashboards
+- Azure (nog niet geïmplementeerd)
 
 ## Data
 
@@ -26,8 +26,8 @@ Analyse van energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en
 
 ## Status
 
-Project in ontwikkeling - Onderdeel van data engineering portfolio
+Project in ontwikkeling - onderdeel van m'n data engineering portfolio
 
 ---
 
-*Laatst bijgewerkt: Januari 2026*
+*Update: januari 2026*
