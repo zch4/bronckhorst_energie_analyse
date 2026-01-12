@@ -1,10 +1,10 @@
 # Bronckhorst Energie Analyse
 
-## 📊 Over dit project
+## Over dit project
 
 Data-analyse van de energietransitie in de gemeente Bronckhorst. Dit project onderzoekt energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en buurtniveau.
 
-## 🎯 Doelstelling
+## Doelstelling
 
 Inzicht geven in:
 - Huidige energieverbruik (gas & elektriciteit)
@@ -12,21 +12,21 @@ Inzicht geven in:
 - Potentieel voor verduurzaming
 - Socio-economische aspecten van de energietransitie
 
-## 🔧 Technologieën
+## Technologieën
 
 - **Power BI** - Interactieve dashboards
-- **Python** - Data processing en analyse
+- **Python** - Data-processing en analyse
 - **ArcGIS/GeoJSON** - Ruimtelijke data
 
-## 📁 Data bronnen
+## Data bronnen
 
-- CBS StatLine (buurt- en wijkgegevens)
 - Gemeente Bronckhorst open data portaal
+- CBS StatLine (buurt- en wijkgegevens)
 - RVO energielabel database
 
-## 📝 Status
+## Status
 
-🚧 Project in ontwikkeling - Onderdeel van data engineering portfolio
+Project in ontwikkeling - Onderdeel van data engineering portfolio
 
 ---
 
