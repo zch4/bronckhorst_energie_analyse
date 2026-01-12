@@ -8,7 +8,7 @@ Analyse van energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en
 
 **Kernactiviteiten:**
 - Ontsluiting van open databronnen (ArcGIS FeatureServer, CBS StatLine)
-- Data-integratie en -harmonisatie op buurt- en wijkniveau
+- Data-integratie op buurt- en wijkniveau
 - Feature engineering (energieverbruik per huishouden, verduurzamingspotentieel)
 - Geografische dataverwerking en visualisatie
 
