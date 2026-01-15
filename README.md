@@ -13,6 +13,8 @@ In dit project wordt inzicht gegeven in:
 - Relatie tussen energieverbruik, WOZ-waarde en aantal huishoudens
 - Verschillen in energieverbruik tussen woningtypen
 
+Zie: **`bronckhorst_energie_analyse_verkennend.ipynb`**
+
 ## Technologieën
 
 - **Power BI** – Visualisatie en verkennende analyse
