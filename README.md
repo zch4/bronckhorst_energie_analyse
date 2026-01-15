@@ -2,33 +2,32 @@
 
 ## Over dit project
 
-Data-analyse van de energietransitie in de gemeente Bronckhorst. Dit project onderzoekt energieverbruik, woningkenmerken en transitie-gereedheid op wijk- en buurtniveau.
+Dit project is een verkennende data-analyse van energieverbruik in de gemeente Bronckhorst,
+met focus op verschillen tussen buurten en wijken en de relatie met woningkenmerken. 
 
-## Doelstelling
+## Inhoud en focus
 
-Inzicht geven in:
-
-- Huidige energieverbruik (gas & elektriciteit)
-- Woningvoorraad en energielabels
-- Potentieel voor verduurzaming
-- Socio-economische aspecten van de energietransitie
+In dit project wordt inzicht gegeven in:
+- Gemiddeld gas- en elektriciteitsverbruik per woning
+- Ruimtelijke verschillen op buurt- en wijkniveau
+- Relatie tussen energieverbruik, WOZ-waarde en aantal huishoudens
+- Verschillen in energieverbruik tussen woningtypen
 
 ## Technologieën
 
-- **Power BI** - Interactieve dashboards
-- **Python** - Data-processing en analyse
-- **ArcGIS/GeoJSON** - Ruimtelijke data
-- **Azure** - Cloud platform voor data storage en processing (gepland)
+- **Power BI** – Visualisatie en verkennende analyse
+- **Python** – Dataverwerking (bronze → silver → gold)
+- **ArcGIS, GeoJSON** – Kaarten op buurt- en wijkniveau
 
-## Data bronnen
+## Databronnen
 
-- Gemeente Bronckhorst open data (ArcGIS FeatureServer)
-- CBS StatLine, Kerncijfers wijk- en buurtgegevens 2025
+- Gemeente Bronckhorst – open data (ArcGIS FeatureServer)
+- CBS – Kerncijfers wijk- en buurtgegevens (2025)
 
 ## Status
 
-Project in ontwikkeling - Onderdeel van data engineering portfolio
+Verkennende analyse. Het project kan worden uitgebreid met o.a. bouwjaar, warmtenetten of tijdreeksen.
 
 ---
 
-*Laatst bijgewerkt: Januari 2026*
+*Laatst bijgewerkt: januari 2026*
