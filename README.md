@@ -5,7 +5,7 @@
 Dit project is een verkennende data-analyse van energieverbruik in de gemeente Bronckhorst,
 met focus op verschillen tussen buurten en wijken en de relatie met woningkenmerken. 
 
-## Inhoud en focus
+## Inhoud
 
 In dit project wordt inzicht gegeven in:
 - Gemiddeld gas- en elektriciteitsverbruik per woning
@@ -18,9 +18,9 @@ Zie: [bronckhorst_energie_analyse_verkennend.ipynb](https://github.com/zch4/bron
 
 ## Technologieën
 
-- **Power BI** – Visualisatie en verkennende analyse
-- **Python** – Dataverwerking (bronze → silver → gold)
-- **ArcGIS, GeoJSON** – Kaarten op buurt- en wijkniveau
+- Power BI – Visualisatie en verkennende analyse
+- Python – Dataverwerking (bronze → silver → gold)
+- ArcGIS, GeoJSON – Kaarten op buurt- en wijkniveau
 
 ## Databronnen
 
