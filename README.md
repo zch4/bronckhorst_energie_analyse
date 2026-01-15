@@ -13,7 +13,8 @@ In dit project wordt inzicht gegeven in:
 - Relatie tussen energieverbruik, WOZ-waarde en aantal huishoudens
 - Verschillen in energieverbruik tussen woningtypen
 
-Zie: **`bronckhorst_energie_analyse_verkennend.ipynb`**
+Zie: [bronckhorst_energie_analyse_verkennend.ipynb](https://github.com/zch4/bronckhorst_energie_analyse/blob/main/bronckhorst_energie_analyse_verkennend.ipynb)
+
 
 ## Technologieën
 
